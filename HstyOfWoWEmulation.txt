@@ -102,7 +102,7 @@ NOX and rise of WoWWoW
 
 Guy named Kolie tried to convince public that his emulator called NOX will be the most feature-full emu of all the times, all he did (and of course he helped a lot to community and we are thankful for that) was releasing of WOWSRP6 dll, which helped Dr.Nexus. After Kolie released this library, he went who-knows-where. Farewell NOX and welcome WOWWOW. Dr.Nexus the one of hard working guys out there decompiled the Kolie's dll and
 
-released C# code with WOW-SRP protocol to public. One of ppl using that code was tticapost and releasing EWOW (as new emulator) source to public. Later, the WOWWOW Alpha 1 has been released and it's sucessfully continuing to present days, in december 2005 it hit Beta stages, but playing on WowwoW isn't quite possible (because of bug that shutdowns server after some time)... Looking forward anything J
+released C# code with WOW-SRP protocol to public. One of ppl using that code was tticapost and releasing EWOW (as new emulator) source to public. Later, the WOWWOW Alpha 1 has been released and it's successfully continuing to present days, in december 2005 it hit Beta stages, but playing on WowwoW isn't quite possible (because of bug that shutdowns server after some time)... Looking forward anything J
 
 Rise and fall of OpenWOW
 
