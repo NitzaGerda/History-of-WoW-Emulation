@@ -1,5 +1,5 @@
 # History-of-WoW-Emulation
 
-Historia de la emulación de World of Warcraft
+Ancient History of WoW Emulation.
 
-En proceso...
+![die-woodys-pascal](https://user-images.githubusercontent.com/111697701/218303569-e841b643-fa01-4b88-9685-07527cbb6b22.gif)
